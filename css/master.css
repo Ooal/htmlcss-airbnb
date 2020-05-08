@@ -24,3 +24,13 @@
   margin-top: 10px;
   background: url('https://s1.1zoom.me/b5028/709/Denmark_Copenhagen_Houses_Evening_Canal_Street_566147_1920x1080.jpg');
 }
+
+.trasparenza{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0.4);
+  z-index: 1;
+}
