@@ -3,3 +3,24 @@
   margin: 0;
   padding: 0;
 }
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background-size: cover;
+}
+
+.tokyo{
+  background: url('https://sfondo.info/i/original/7/c/4/31986.jpg');
+}
+
+.roma{
+  margin-top: 10px;
+  background: url('https://sfondo.info/i/original/3/c/3/29286.jpg');
+}
+
+.copenaghen{
+  margin-top: 10px;
+  background: url('https://s1.1zoom.me/b5028/709/Denmark_Copenhagen_Houses_Evening_Canal_Street_566147_1920x1080.jpg');
+}
